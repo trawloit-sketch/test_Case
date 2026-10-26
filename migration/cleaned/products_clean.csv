@@ -1,0 +1,22 @@
+product_code,product_name,category_name,unit,unit_price,minimum_stock,is_active
+GRM-KNS-001,Garam Konsumsi Beryodium 250g,Garam Konsumsi,Bungkus,3500,100,1
+GRM-KNS-002,Garam Konsumsi Beryodium 500g,Garam Konsumsi,Bungkus,6500,150,1
+GRM-KNS-003,Garam Meja Halus Premium 1kg,Garam Konsumsi,Pack,12000,80,1
+GRM-KNS-004,Garam Dapur Cap Garam Madura 250g,Garam Konsumsi,Bungkus,3000,200,1
+GRM-KNS-005,Garam Beryodium Bata Tradisional 400g,Garam Konsumsi,Bata,4500,100,1
+GRM-IND-001,Garam Industri Kimia NaCL 98% 50kg,Garam Industri,Karung,185000,50,1
+GRM-IND-002,Garam Industri Tekstil Super 50kg,Garam Industri,Karung,175000,40,1
+GRM-IND-003,Garam Water Treatment Resin 50kg,Garam Industri,Karung,190000,60,1
+GRM-IND-004,Garam Pangan Food Grade Refined 50kg,Garam Industri,Karung,210000,50,1
+GRM-IND-005,Garam Industri Penyamakan Kulit 50kg,Garam Industri,Karung,165000,30,1
+GRM-NKN-001,Garam Pengawetan Ikan Tradisional 50kg,Garam Non-Konsumsi,Karung,120000,100,1
+GRM-NKN-002,Garam Pertanian Pupuk Tanah 50kg,Garam Non-Konsumsi,Karung,110000,50,1
+GRM-NKN-003,Garam Pakan Ternak Mineral Sapi 50kg,Garam Non-Konsumsi,Karung,130000,70,1
+GRM-NKN-004,Garam Es Balok Pendingin Kapal 50kg,Garam Non-Konsumsi,Karung,115000,120,1
+GRM-HLS-001,Garam Halus Kristal Super Kering 25kg,Garam Halus,Karung,95000,60,1
+GRM-HLS-002,Garam Halus Khusus Roti & Snack 25kg,Garam Halus,Karung,105000,40,1
+GRM-HLS-003,Garam Halus Mikro Powder 25kg,Garam Halus,Karung,115000,35,1
+GRM-KRS-001,Garam Krosok Kualitas 1 (Grade A) 50kg,Garam Krosok,Karung,85000,200,1
+GRM-KRS-002,Garam Krosok Kualitas 2 (Grade B) 50kg,Garam Krosok,Karung,75000,250,1
+GRM-KRS-003,Garam Krosok Kualitas 3 (Grade C) 50kg,Garam Krosok,Karung,65000,300,1
+DUP-KRS-001,Garam Krosok Kualitas 1 (Grade A) 50kg,Garam Krosok,Karung,85000,200,1

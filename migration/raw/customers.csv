@@ -1,0 +1,13 @@
+customer_code,company_name,contact_name,email,phone,address,city,province,postal_code,credit_limit,payment_terms_days
+CUST-001,PT Garamindo Nusantara Jaya,Hendra Setiawan,procurement@garamindo.co.id,+6281234567801,Jl. Raya Kalianget No. 12,Sumenep,Jawa Timur,69471,50000000,30
+CUST-002,CV Madura Makmur Sejahtera,Siti Aminah,siti.aminah@maduramakmur.com,+6281234567802,Jl. Trunojoyo No. 45,Pamekasan,Jawa Timur,69317,35000000,14
+CUST-003,UD Garam Laut Selatan,Bambang Supriyadi,bambang@garamlaut.id,+6281234567803,Jl. Pelabuhan Camplong No. 8,Sampang,Jawa Timur,69251,20000000,7
+CUST-004,PT Pangan Halus Lestari,Dewi Sartika,dewi@panganhalus.co.id,+6281234567804,Kawasan Industri SIER No. 102,Surabaya,Jawa Timur,60293,100000000,45
+CUST-005,CV Sari Kimia Industri,Ahmad Hidayat,ahmad@sarikimia.com,+6281234567805,Jl. Raya Kamal KM 4,Bangkalan,Jawa Timur,69162,45000000,30
+CUST-006,UD Berkah Tani Ternak,Mahmud Yunus,mahmud@berkahtani.id,+6281234567806,Jl. Raya Blega No. 22,Bangkalan,Jawa Timur,69174,15000000,14
+CUST-007,PT Pengolahan Ikan Samudera,Agus Wijaya,agus@ikansamudera.co.id,+6281234567807,Jl. Mayangan No. 55,Probolinggo,Jawa Timur,67215,80000000,30
+CUST-008,CV Sentosa Roti & Snack,Lina Marlina,lina@sentosaroti.com,+6281234567808,Jl. Pahlawan No. 78,Sidoarjo,Jawa Timur,61212,30000000,14
+CUST-009,Koperasi Nelayan Pesisir Madura,Haji Rofi'i,koperasi.madura@pesisir.org,+6281234567809,Jl. Pantai Slopeng No. 3,Sumenep,Jawa Timur,69431,25000000,21
+CUST-010,PT Agro Kimia Maju Bersama,Eko Prasetyo,eko@agrokimia.co.id,+6281234567810,Jl. Industri Gresik KM 14,Gresik,Jawa Timur,61151,120000000,60
+ERR-CST-001,Toko Tanpa Kontak,,invalid-email,0800,,,,, -500000, -10
+DUP-CUST-001,PT Garamindo Nusantara Jaya,Hendra Setiawan,procurement@garamindo.co.id,+6281234567801,Jl. Raya Kalianget No. 12,Sumenep,Jawa Timur,69471,50000000,30

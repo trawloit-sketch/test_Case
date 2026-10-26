@@ -1,0 +1,2 @@
+product_code,product_name,category_name,unit,unit_price,minimum_stock,is_active,rejection_reason
+ERR-PRD-001,Garam Reject Kadaluarsa,Unknown,Karung,-5000,-10,0,Unit price must be > 0; Minimum stock cannot be negative

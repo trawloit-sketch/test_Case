@@ -1,0 +1,2 @@
+customer_code,company_name,contact_name,email,phone,address,city,province,postal_code,credit_limit,payment_terms_days,rejection_reason
+ERR-CST-001,Toko Tanpa Kontak,,invalid-email,800,,,,,-500000,-10,Invalid email address format; Credit limit cannot be negative

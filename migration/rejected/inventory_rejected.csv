@@ -1,0 +1,2 @@
+warehouse_code,product_code,quantity_on_hand,quantity_reserved,reorder_point,last_counted_date,rejection_reason
+WH-ERR-99,ERR-PRD-001,-50,0,100,invalid-date,Quantity on hand cannot be negative; Invalid ISO date format

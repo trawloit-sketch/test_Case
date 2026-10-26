@@ -1,0 +1,2 @@
+order_number,customer_code,order_date,product_code,quantity,unit_price,discount_percent,tax_percent,status,rejection_reason
+SO-ERR-9999,ERR-CST-999,invalid-date,GRM-KNS-001,-10,3500,150,11,INVALID_STATUS,Quantity must be > 0; Discount out of allowable bounds (0% - 50%); Invalid workflow status 'INVALID_STATUS'; Invalid order date format
